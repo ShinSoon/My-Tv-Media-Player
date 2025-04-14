@@ -15,7 +15,7 @@ int main() {
 
     // Simulate parsing some data (replace "dummy_data" later)
     std::cout << "Simulating data parsing..." << std::endl;
-    dataParser.parseData("dummy_stream_data_goes_here"); // Placeholder call
+    dataParser.parseData("101,BBC One;102,ITV;205,Channel 4;99"); // Placeholder call
 
     // Simulate retrieving parsed data (will be empty for now)
     std::vector<ChannelInfo> channels = dataParser.getChannels();
