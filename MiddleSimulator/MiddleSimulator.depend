@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1744625960 source:c:\leongshinsoon\leongshinsoonrealteklearning\realtekmiddlewaresimulatorproject\middlesimulator\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"ChannelInfo.h"
+	"ProgramInfo.h"
+	"Parser.h"
+
+1744451606 c:\leongshinsoon\leongshinsoonrealteklearning\realtekmiddlewaresimulatorproject\middlesimulator\channelinfo.h
+	<string>
+
+1744451606 c:\leongshinsoon\leongshinsoonrealteklearning\realtekmiddlewaresimulatorproject\middlesimulator\programinfo.h
+	<string>
+
+1744642106 c:\leongshinsoon\leongshinsoonrealteklearning\realtekmiddlewaresimulatorproject\middlesimulator\parser.h
+	<string>
+	<vector>
+	"ChannelInfo.h"
+	"ProgramInfo.h"
+
+1744451606 source:c:\leongshinsoon\leongshinsoonrealteklearning\realtekmiddlewaresimulatorproject\middlesimulator\channelinfo.h
+	<string>
+
+1744624057 source:c:\leongshinsoon\leongshinsoonrealteklearning\realtekmiddlewaresimulatorproject\middlesimulator\parser.cpp
+	"Parser.h"
+	<sstream>
+	<string>
+	<vector>
+	<iostream>
+	<stdexcept>
+
+1744642106 source:c:\leongshinsoon\leongshinsoonrealteklearning\realtekmiddlewaresimulatorproject\middlesimulator\parser.h
+	<string>
+	<vector>
+	"ChannelInfo.h"
+	"ProgramInfo.h"
+
+1744451606 source:c:\leongshinsoon\leongshinsoonrealteklearning\realtekmiddlewaresimulatorproject\middlesimulator\programinfo.h
+	<string>
+
