@@ -24,5 +24,7 @@ int main() {
     // You could add logic here later to interact with the parser/data
 
     std::cout << "--- Middleware Simulator Finished ---" << std::endl;
+
+    std::cout << "--- Completed by Leong Shin Soon ---" << std::endl;
     return 0; // Indicate successful execution
 }
