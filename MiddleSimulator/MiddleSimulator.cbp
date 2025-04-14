@@ -35,6 +35,9 @@
 		<Unit filename="ChannelInfo.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="Parser.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="Parser.h" />
 		<Unit filename="ProgramInfo.h">
 			<Option target="&lt;{~None~}&gt;" />
