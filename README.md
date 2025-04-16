@@ -1,5 +1,4 @@
 # my-tv-media-player
-Okay, here is a complete and comprehensive README.md file for the project.
 
 # Middleware Channel/Program Parser
 
